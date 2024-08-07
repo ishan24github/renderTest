@@ -3,6 +3,12 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 
+// useLLM
+// transformer.js
+
+// Good copywriting and semantic html, mostly. A good amount of backlinking as well.
+//  probably the best is to convert your site to NextJS
+
 function App() {
   const [count, setCount] = useState(0);
 
